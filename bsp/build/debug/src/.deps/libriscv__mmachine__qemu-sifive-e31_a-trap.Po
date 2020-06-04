@@ -1,0 +1,2 @@
+src/libriscv__mmachine__qemu-sifive-e31_a-trap.o: \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/src/trap.S

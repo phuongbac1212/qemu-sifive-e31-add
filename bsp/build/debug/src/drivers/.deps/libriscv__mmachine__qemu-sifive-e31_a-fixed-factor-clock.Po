@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine__qemu-sifive-e31_a-fixed-factor-clock.o: \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/src/drivers/fixed-factor-clock.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

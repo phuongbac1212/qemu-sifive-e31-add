@@ -1,0 +1,124 @@
+src/libriscv__mmachine__qemu-sifive-e31_a-memory.o: \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/src/memory.c \
+ metal/machine.h metal/machine/platform.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/fixed-clock.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/compiler.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/clock.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/memory.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/stdint.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/machine/_default_types.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/features.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/_newlib_version.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/_intsup.h \
+ /home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/_stdint.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_clint0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_cpu.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/cpu.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/interrupt.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_plic0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/pmp.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_gpio0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/gpio.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/led.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_rtc0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/io.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/rtc.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_spi0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/spi.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_test0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/shutdown.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_uart0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/uart.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_wdog0.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/watchdog.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ /home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h
+
+metal/machine.h:
+
+metal/machine/platform.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/fixed-clock.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/compiler.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/clock.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/memory.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/stdint.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/machine/_default_types.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/features.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/_newlib_version.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/_intsup.h:
+
+/home/fang/Programs/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2019.08.0/riscv64-unknown-elf/include/sys/_stdint.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_clint0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_cpu.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/cpu.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/interrupt.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/riscv_plic0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/pmp.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/gpio.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/led.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/io.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/rtc.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_spi0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/spi.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_test0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/shutdown.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_uart0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/uart.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/watchdog.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+/home/fang/wsFreedomStudio/qemu-sifive-e31-hello/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:
